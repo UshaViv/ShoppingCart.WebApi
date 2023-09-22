@@ -1,0 +1,15 @@
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\bin\Debug\net7.0\ShoppingCart.Order.Infrastructure.deps.json
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\bin\Debug\net7.0\ShoppingCart.Order.Infrastructure.dll
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\bin\Debug\net7.0\ShoppingCart.Order.Infrastructure.pdb
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\bin\Debug\net7.0\ShoppingCart.Order.Domain.dll
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\bin\Debug\net7.0\ShoppingCart.Order.Domain.pdb
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\obj\Debug\net7.0\ShoppingCart.Order.Infrastructure.csproj.AssemblyReference.cache
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\obj\Debug\net7.0\ShoppingCart.Order.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\obj\Debug\net7.0\ShoppingCart.Order.Infrastructure.AssemblyInfoInputs.cache
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\obj\Debug\net7.0\ShoppingCart.Order.Infrastructure.AssemblyInfo.cs
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\obj\Debug\net7.0\ShoppingCart.Order.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\obj\Debug\net7.0\ShoppingCart.Order.Infrastructure.csproj.CopyComplete
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\obj\Debug\net7.0\ShoppingCart.Order.Infrastructure.dll
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\obj\Debug\net7.0\refint\ShoppingCart.Order.Infrastructure.dll
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\obj\Debug\net7.0\ShoppingCart.Order.Infrastructure.pdb
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Infrastructure\obj\Debug\net7.0\ref\ShoppingCart.Order.Infrastructure.dll

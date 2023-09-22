@@ -1,0 +1,17 @@
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\bin\Debug\net7.0\ShoppingCart.Order.Application.deps.json
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\bin\Debug\net7.0\ShoppingCart.Order.Application.dll
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\bin\Debug\net7.0\ShoppingCart.Order.Application.pdb
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\bin\Debug\net7.0\ShoppingCart.Order.Domain.dll
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\bin\Debug\net7.0\ShoppingCart.Order.Infrastructure.dll
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\bin\Debug\net7.0\ShoppingCart.Order.Domain.pdb
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\bin\Debug\net7.0\ShoppingCart.Order.Infrastructure.pdb
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\obj\Debug\net7.0\ShoppingCart.Order.Application.csproj.AssemblyReference.cache
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\obj\Debug\net7.0\ShoppingCart.Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\obj\Debug\net7.0\ShoppingCart.Order.Application.AssemblyInfoInputs.cache
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\obj\Debug\net7.0\ShoppingCart.Order.Application.AssemblyInfo.cs
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\obj\Debug\net7.0\ShoppingCart.Order.Application.csproj.CoreCompileInputs.cache
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\obj\Debug\net7.0\ShoppingCart.Order.Application.csproj.CopyComplete
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\obj\Debug\net7.0\ShoppingCart.Order.Application.dll
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\obj\Debug\net7.0\refint\ShoppingCart.Order.Application.dll
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\obj\Debug\net7.0\ShoppingCart.Order.Application.pdb
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Application\obj\Debug\net7.0\ref\ShoppingCart.Order.Application.dll

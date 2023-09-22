@@ -1,0 +1,11 @@
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Domain\bin\Debug\net7.0\ShoppingCart.Order.Domain.deps.json
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Domain\bin\Debug\net7.0\ShoppingCart.Order.Domain.dll
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Domain\bin\Debug\net7.0\ShoppingCart.Order.Domain.pdb
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Domain\obj\Debug\net7.0\ShoppingCart.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Domain\obj\Debug\net7.0\ShoppingCart.Order.Domain.AssemblyInfoInputs.cache
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Domain\obj\Debug\net7.0\ShoppingCart.Order.Domain.AssemblyInfo.cs
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Domain\obj\Debug\net7.0\ShoppingCart.Order.Domain.csproj.CoreCompileInputs.cache
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Domain\obj\Debug\net7.0\ShoppingCart.Order.Domain.dll
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Domain\obj\Debug\net7.0\refint\ShoppingCart.Order.Domain.dll
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Domain\obj\Debug\net7.0\ShoppingCart.Order.Domain.pdb
+E:\Practices\.NetCore\ShoppingCart.WebApi\ShoppingCart.Order.Domain\obj\Debug\net7.0\ref\ShoppingCart.Order.Domain.dll

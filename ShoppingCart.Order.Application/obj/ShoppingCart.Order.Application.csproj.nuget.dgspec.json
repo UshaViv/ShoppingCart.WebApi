@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "e:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Application\\ShoppingCart.Order.Application.csproj": {}
+  },
+  "projects": {
+    "e:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Application\\ShoppingCart.Order.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "e:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Application\\ShoppingCart.Order.Application.csproj",
+        "projectName": "ShoppingCart.Order.Application",
+        "projectPath": "e:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Application\\ShoppingCart.Order.Application.csproj",
+        "packagesPath": "C:\\Users\\srika\\.nuget\\packages\\",
+        "outputPath": "e:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\srika\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Domain\\ShoppingCart.Order.Domain.csproj": {
+                "projectPath": "E:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Domain\\ShoppingCart.Order.Domain.csproj"
+              },
+              "E:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Infrastructure\\ShoppingCart.Order.Infrastructure.csproj": {
+                "projectPath": "E:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Infrastructure\\ShoppingCart.Order.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Domain\\ShoppingCart.Order.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Domain\\ShoppingCart.Order.Domain.csproj",
+        "projectName": "ShoppingCart.Order.Domain",
+        "projectPath": "E:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Domain\\ShoppingCart.Order.Domain.csproj",
+        "packagesPath": "C:\\Users\\srika\\.nuget\\packages\\",
+        "outputPath": "E:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\srika\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Infrastructure\\ShoppingCart.Order.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Infrastructure\\ShoppingCart.Order.Infrastructure.csproj",
+        "projectName": "ShoppingCart.Order.Infrastructure",
+        "projectPath": "E:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Infrastructure\\ShoppingCart.Order.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\srika\\.nuget\\packages\\",
+        "outputPath": "E:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\srika\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Domain\\ShoppingCart.Order.Domain.csproj": {
+                "projectPath": "E:\\Practices\\.NetCore\\ShoppingCart.WebApi\\ShoppingCart.Order.Domain\\ShoppingCart.Order.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
